@@ -36,3 +36,16 @@ The program automatically creates and updates `books.json` and `members.json` fo
 
 - Python
 - JSON
+## Project Screenshots
+
+### Main Menu
+![Main Menu](menu.png.png)
+
+### Add Book
+![Add Book](add-book.png)
+
+### Borrow Book
+![Borrow Book](borrow-book.png)
+
+### Additional Borrow Screenshot
+![Borrow Book](borroww-book.png)
