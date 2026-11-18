@@ -1,40 +1,38 @@
+# Task 1: Library Book Catalog
 
-# Library Book Catalog & Circulation System
+## Project Description
+A Python-based Library Book Catalog and Circulation CLI application that allows users to manage books, search the catalog, borrow books, and return books.
 
-## About the Project
-This is a Python-based Library Book Catalog and Circulation System.
-It helps users manage books in a library through a simple menu-driven interface.
+## How to Run
+
+Open a terminal in the project folder and run:
+
+```powershell
+py day1.py
+```
+
+The program automatically creates and updates `books.json` and `members.json` for data persistence.
+
+## Included Files
+
+- `day1.py` — Main menu, book catalog, borrowing, and return operations.
+- `storage.py` — JSON data storage and persistence.
+- `validation.py` — ISBN and input validation.
+- `books.json` — Stores book records.
+- `members.json` — Stores borrowing records.
 
 ## Features
+
 - Add new books
-- View all available books
-- Search books by ISBN or title
+- View all books
+- Search books by title or author
 - Remove books
 - Borrow books
 - Return books
-- Prevent duplicate ISBN entries
-- Validate book copies
-- Save book data using JSON
+- Input validation
+- Persistent JSON storage
 
 ## Technologies Used
+
 - Python
 - JSON
-- VS Code
-
-## How to Run
-1. Install Python.
-2. Download or clone this project.
-3. Open the project folder in VS Code.
-4. Open the terminal.
-5. Run the following command:
-
-   py day1.py
-
-## Data Storage
-Book information is stored in a file named `books.json`.
-
-## Developer
-Snehal Solanke
-
-## Internship
-CodeNova Python Programming Internship - Batch 02

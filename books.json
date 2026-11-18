@@ -1,56 +1,50 @@
 [
     {
-        "ISBN": "101",
-        "Title": "Python Basics",
-        "Author": "john",
-        "Copies": 5
-    },
-    {
-        "ISBN": "102",
+        "ISBN": "9780735211292",
         "Title": "Atomic Habits",
         "Author": "James Clear",
-        "Copies": 2
+        "Copies": 3
     },
     {
-        "ISBN": "103",
-        "Title": "Rich Dad Poor Dad",
-        "Author": "Robert Kiyosaki",
-        "Copies": 4
-    },
-    {
-        "ISBN": "104",
+        "ISBN": "9780061122415",
         "Title": "The Alchemist",
         "Author": "Paulo Coelho",
         "Copies": 2
     },
     {
-        "ISBN": "105",
+        "ISBN": "9788172234980",
         "Title": "Wings of Fire",
         "Author": "A.P.J. Abdul Kalam",
         "Copies": 5
     },
     {
-        "ISBN": "106",
+        "ISBN": "9781501196058",
         "Title": "Think Like a Monk",
         "Author": "Jay Shetty",
         "Copies": 3
     },
     {
-        "ISBN": "107",
+        "ISBN": "9781786330895",
         "Title": "Ikigai",
         "Author": "Hector Garcia",
         "Copies": 4
     },
     {
-        "ISBN": "108",
+        "ISBN": "9780735214149",
         "Title": "The Power of Habit",
         "Author": "Charles Duhigg",
         "Copies": 2
     },
     {
-        "ISBN": "2001",
-        "Title": "Python Basics",
-        "Author": "snehal",
+        "ISBN": "9780062315007",
+        "Title": "The Sapiens",
+        "Author": "Yuval Noah Harari",
+        "Copies": 4
+    },
+    {
+        "ISBN": "9780306406157",
+        "Title": "The Design of Everyday Things",
+        "Author": "Don Norman",
         "Copies": 3
     }
 ]
