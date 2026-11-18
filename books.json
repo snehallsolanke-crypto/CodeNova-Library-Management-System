@@ -1,0 +1,56 @@
+[
+    {
+        "ISBN": "101",
+        "Title": "Python Basics",
+        "Author": "john",
+        "Copies": 5
+    },
+    {
+        "ISBN": "102",
+        "Title": "Atomic Habits",
+        "Author": "James Clear",
+        "Copies": 2
+    },
+    {
+        "ISBN": "103",
+        "Title": "Rich Dad Poor Dad",
+        "Author": "Robert Kiyosaki",
+        "Copies": 4
+    },
+    {
+        "ISBN": "104",
+        "Title": "The Alchemist",
+        "Author": "Paulo Coelho",
+        "Copies": 2
+    },
+    {
+        "ISBN": "105",
+        "Title": "Wings of Fire",
+        "Author": "A.P.J. Abdul Kalam",
+        "Copies": 5
+    },
+    {
+        "ISBN": "106",
+        "Title": "Think Like a Monk",
+        "Author": "Jay Shetty",
+        "Copies": 3
+    },
+    {
+        "ISBN": "107",
+        "Title": "Ikigai",
+        "Author": "Hector Garcia",
+        "Copies": 4
+    },
+    {
+        "ISBN": "108",
+        "Title": "The Power of Habit",
+        "Author": "Charles Duhigg",
+        "Copies": 2
+    },
+    {
+        "ISBN": "2001",
+        "Title": "Python Basics",
+        "Author": "snehal",
+        "Copies": 3
+    }
+]
